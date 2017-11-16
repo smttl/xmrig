@@ -1,0 +1,1 @@
+xmrig.exe -o pool.supportxmr.com:5555  -u 46mnHD73XnRYyivrDjrFV4XJsmJ1ssPuChKCq7c2uuJnfVqzPXEF8phU5yyy7STiRYi5RkLRnDMLW8ht4aFHxoV8VbzdCL4  -p smtl123samet -k
